@@ -38,7 +38,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 ---
 
-# 📷 Dashboard Preview
+#  Dashboard Preview
 
 ## 💰 Income Source Dashboard
 ![Income Source Dashboard](https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Income%20Sources.png)
@@ -50,7 +50,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 ---
 
-# 🚀 Features
+#  Features
 
 ✔️ Interactive Financial Analytics
 
@@ -99,7 +99,7 @@ Aramco-Financial-Analytics-Dashboard/
 
 ---
 
-# 📊 Business Value
+#  Business Value
 
 This dashboard demonstrates how financial and operational data can be transformed into actionable business insights using advanced Excel analytics and dashboard development techniques.
 
