@@ -28,7 +28,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Monitor financial performance and profitability
 - Analyze revenue distribution across multiple countries
