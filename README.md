@@ -12,14 +12,15 @@ This project demonstrates how Excel can be transformed into a powerful Business 
 
 The dashboard includes multiple analytical pages covering:
 
-- 💰 Income Source Analytics
-- 🌍 Geographical Financial Distribution
-- 📈 Financial Statistics Monitoring
-- 📊 Sales Achievement Analysis
-- 🏢 B2B vs B2C Performance
-- 📉 Operating Profit Tracking
-- 📅 Multi-Year KPI Analysis
-- 📌 Interactive Business Insights
+-  Income Source Analytics
+-  Geographical Financial Distribution
+-  Financial Statistics Monitoring
+-  Sales Achievement Analysis
+-  B2B vs B2C Performance
+-  Operating Profit Tracking
+-  Multi-Year KPI Analysis
+-  Interactive Business Insights
+- 
  # ⚠️ Disclaimer
 
 **Note:** The data used in this project is **not real company data**.  
@@ -40,12 +41,12 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 #  Dashboard Preview
 
-## 💰 Income Source Dashboard
+##  Income Source Dashboard
 ![Income Source Dashboard](https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Income%20Sources.png)
 
 ---
 
-## 🌍 Geographical Dashboard
+##  Geographical Dashboard
 ![Geographical Dashboard](https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Geographical%20Dashboard.png)
 
 ---
@@ -114,7 +115,7 @@ The project showcases:
 
 ---
 
-# 📥 How to Use
+#  How to Use
 
 1. Clone or download this repository.
 2. Open the `.xlsx` file using **Microsoft Excel**.
