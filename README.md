@@ -4,7 +4,7 @@
 ![Financial Analytics](https://img.shields.io/badge/Financial-Analytics-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-success)
 
-## 📌 Project Overview
+##  Project Overview
 
 An interactive **Aramco Financial Analytics Dashboard** built entirely using **Microsoft Excel** to analyze income sources, geographical financial performance, operational profit, sales achievement, and business KPIs through dynamic and professional visualizations.
 
