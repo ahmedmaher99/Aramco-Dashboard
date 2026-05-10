@@ -20,6 +20,10 @@ The dashboard includes multiple analytical pages covering:
 - 📉 Operating Profit Tracking
 - 📅 Multi-Year KPI Analysis
 - 📌 Interactive Business Insights
+ # ⚠️ Disclaimer
+
+**Note:** The data used in this project is **not real company data**.  
+All datasets, KPIs, financial figures, and business metrics were created and used **for training, educational, and portfolio purposes only**.
 
 ---
 
