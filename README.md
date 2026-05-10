@@ -41,7 +41,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 # 📷 Dashboard Preview
 
 ## 💰 Income Source Dashboard
-![Income Source Dashboard](YOUR_IMAGE_LINK_HERE)
+![Income Source Dashboard](https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Income%20Sources.png)
 
 ---
 
