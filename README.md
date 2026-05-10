@@ -1,155 +1,138 @@
-# Aramco Financial Analytics Dashboard
+# Aramco Financial Analytics Dashboard | Microsoft Excel
 
-An advanced and interactive financial analytics dashboard developed using **Microsoft Excel** for analyzing income sources, geographical financial performance, sales achievement, operational profit, and business KPIs in the energy sector.
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-Dashboard-217346?logo=microsoftexcel&logoColor=white)
+![Financial Analytics](https://img.shields.io/badge/Financial-Analytics-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 
-This project demonstrates how Excel can be transformed into a professional Business Intelligence solution through advanced dashboard design, data modeling, KPI tracking, and interactive reporting.
+## 📌 Project Overview
 
----
+An interactive **Aramco Financial Analytics Dashboard** built entirely using **Microsoft Excel** to analyze income sources, geographical financial performance, operational profit, sales achievement, and business KPIs through dynamic and professional visualizations.
 
-#  Project Overview
+This project demonstrates how Excel can be transformed into a powerful Business Intelligence solution capable of generating executive-level insights through advanced dashboard design and interactive analytics.
 
-The dashboard provides a complete financial analysis environment for monitoring:
+The dashboard includes multiple analytical pages covering:
 
-- Income Sources
-- Financial Statistics
-- Geographical Revenue Distribution
-- Sales Achievement
-- Operating Profit
-- B2B vs B2C Performance
-- Monthly Income Trends
-- KPI Tracking Across Multiple Years
-
-The dashboard is fully interactive using slicers, pivot tables, formulas, and dynamic visualizations.
-
----
-
-#  Dashboard Features
-
-## 🔹 Income Source Analysis
-- Interactive KPI Ring Visualization
-- Income Achievement Percentage
-- Income Target vs Actual Income
-- Revenue Contribution by Source
-- Monthly Income Trend Analysis
-
-## 🔹 Geographical Analytics
-- Global Financial Distribution Map
-- Country-wise Revenue Comparison
-- Tax Analysis & Financial Statistics
-- Sales Achievement KPIs
-
-## 🔹 Business Performance Monitoring
-- Operating Profit Tracking
-- Average Monthly Income
-- B2B vs B2C Comparison
-- Multi-Year Financial Analysis
+- 💰 Income Source Analytics
+- 🌍 Geographical Financial Distribution
+- 📈 Financial Statistics Monitoring
+- 📊 Sales Achievement Analysis
+- 🏢 B2B vs B2C Performance
+- 📉 Operating Profit Tracking
+- 📅 Multi-Year KPI Analysis
+- 📌 Interactive Business Insights
 
 ---
 
-#  Technologies & Skills Used
+# 🎯 Project Objectives
 
-## 🛠️ Tools
+- Monitor financial performance and profitability
+- Analyze revenue distribution across multiple countries
+- Track sales achievement KPIs
+- Evaluate B2B and B2C business performance
+- Present complex financial data through interactive dashboards
+- Deliver executive-level reporting using Excel
+
+---
+
+# 📷 Dashboard Preview
+
+## 💰 Income Source Dashboard
+![Income Source Dashboard](YOUR_IMAGE_LINK_HERE)
+
+---
+
+## 🌍 Geographical Dashboard
+![Geographical Dashboard](YOUR_IMAGE_LINK_HERE)
+
+---
+
+# 🚀 Features
+
+✔️ Interactive Financial Analytics
+
+✔️ Multi-page Excel Dashboard
+
+✔️ Dynamic KPI Monitoring
+
+✔️ Geographical Revenue Analysis
+
+✔️ B2B vs B2C Performance Tracking
+
+✔️ Operating Profit Monitoring
+
+✔️ Professional Dashboard UI/UX
+
+✔️ Advanced Excel Data Visualization
+
+✔️ Executive-Level Business Reporting
+
+---
+
+# 🛠️ Tools & Technologies
+
 - Microsoft Excel
 - Pivot Tables
 - Pivot Charts
 - Slicers
-- Advanced Formulas
 - Conditional Formatting
+- Advanced Excel Formulas
+- Financial Analytics
 - Dashboard Design
 - Data Visualization
-
----
-
-# 📈 Key Skills Demonstrated
-
-- Data Analysis
-- Financial Analytics
-- KPI Development
-- Interactive Dashboard Design
-- Data Storytelling
-- Business Intelligence Reporting
-- Dynamic Excel Reporting
-- UI/UX Dashboard Design
-
----
-
-# 📂 Dashboard Pages
-
-## 1️⃣ Income Source Dashboard
-Analyzes:
-- Income achievement
-- Source contribution
-- Monthly trends
-- Financial KPIs
-
-## 2️⃣ Geographical Dashboard
-Analyzes:
-- Country-based revenue
-- Financial distribution
-- Tax metrics
-- Sales achievement rates
-
-## 3️⃣ PivotTables & Data Tables
-Contains:
-- Backend data model
-- Pivot analysis
-- Supporting calculations
-
----
-
-# 🎯 Business Insights Generated
-
-- Identified top-performing revenue sources
-- Compared international financial contributions
-- Monitored operational profitability
-- Evaluated sales achievement performance
-- Analyzed B2B and B2C business distribution
-
----
-
-# 💡 Project Highlights
-
-✅ Fully Interactive Dashboard  
-✅ Professional UI/UX Design  
-✅ Advanced Excel Analytics  
-✅ Multi-Year Dynamic Reporting  
-✅ Executive-Level KPI Visualization  
-✅ Professional Business Intelligence Style  
 
 ---
 
 # 📁 Project Structure
 
 ```bash
-📦 Aramco-Financial-Analytics-Dashboard
- ┣ 📊 Dashboard.xlsx
- ┣ 📷 Screenshots
- ┣ 📄 README.md
+Aramco-Financial-Analytics-Dashboard/
+│
+├── Aramco_Dashboard.xlsx
+├── README.md
+├── income-source-dashboard.jpeg
+├── geographical-dashboard.jpeg
 ```
 
 ---
 
-# 🔥 Why This Project Matters
+# 📊 Business Value
 
-This project proves that Microsoft Excel can be used as a powerful Business Intelligence and Analytics platform capable of building executive-level dashboards without additional BI tools.
+This dashboard demonstrates how financial and operational data can be transformed into actionable business insights using advanced Excel analytics and dashboard development techniques.
 
----
+The project showcases:
 
-# 👨‍💻 Developed By
-
-Ahmed Maher  
-Business Analyst | Data Analyst 
-
----
-
-# 📬 Contact
-
-## LinkedIn
-www.linkedin.com/in/ahmed-maher99
-
+- Financial analysis skills
+- Dashboard storytelling
+- KPI-focused reporting
+- Business Intelligence thinking
+- Professional Excel dashboard development
+- Interactive reporting techniques
 
 ---
 
-# ⭐ If You Like This Project
+# 📥 How to Use
 
-Please consider giving the repository a ⭐ on GitHub!
+1. Clone or download this repository.
+2. Open the `.xlsx` file using **Microsoft Excel**.
+3. Enable editing and interact with slicers and dashboard visuals.
+4. Explore dashboard pages and analyze KPIs dynamically.
+
+---
+
+# 🔗 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/ahmed-maher-2b10a4290
+- 📧 Email: ahmed.maher.w515@gmail.com
+- 🌐 Portfolio: Updating Soon
+
+---
+
+# ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub to support my work and future projects.
+
+---
+
+# 🏷️ Tags
+
+`Microsoft Excel` `Financial Analytics` `Business Intelligence` `Dashboard Design` `Data Visualization` `KPI Dashboard`
