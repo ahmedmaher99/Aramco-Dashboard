@@ -46,7 +46,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 ---
 
 ## 🌍 Geographical Dashboard
-![Geographical Dashboard](YOUR_IMAGE_LINK_HERE)
+![Geographical Dashboard](https://github.com/ahmedmaher99/Aramco-Dashboard/blob/main/Geographical%20Dashboard.png)
 
 ---
 
