@@ -73,7 +73,7 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 ---
 
-# 🛠️ Tools & Technologies
+#  Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
@@ -124,7 +124,7 @@ The project showcases:
 
 ---
 
-# 🔗 Connect With Me
+#  Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/ahmed-maher-2b10a4290
 - 📧 Email: ahmed.maher.w515@gmail.com
