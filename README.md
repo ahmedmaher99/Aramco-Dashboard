@@ -128,8 +128,7 @@ The project showcases:
 
 - 💼 LinkedIn: www.linkedin.com/in/ahmed-maher-2b10a4290
 - 📧 Email: ahmed.maher.w515@gmail.com
-- 🌐 Portfolio: Updating Soon
-
+- 🌐 Portfolio: https://ahmed-maher-da-bi.vercel.app
 ---
 
 # ⭐ Support
