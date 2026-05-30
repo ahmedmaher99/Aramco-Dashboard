@@ -53,23 +53,23 @@ All datasets, KPIs, financial figures, and business metrics were created and use
 
 #  Features
 
-✔️ Interactive Financial Analytics
+ • Interactive Financial Analytics
 
-✔️ Multi-page Excel Dashboard
+ • Multi-page Excel Dashboard
 
-✔️ Dynamic KPI Monitoring
+ • Dynamic KPI Monitoring
 
-✔️ Geographical Revenue Analysis
+ • Geographical Revenue Analysis
 
-✔️ B2B vs B2C Performance Tracking
+ • B2B vs B2C Performance Tracking
 
-✔️ Operating Profit Monitoring
+ • Operating Profit Monitoring
 
-✔️ Professional Dashboard UI/UX
+ • Professional Dashboard UI/UX
 
-✔️ Advanced Excel Data Visualization
+ • Advanced Excel Data Visualization
 
-✔️ Executive-Level Business Reporting
+ • Executive-Level Business Reporting
 
 ---
 
